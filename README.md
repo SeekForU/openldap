@@ -1,5 +1,5 @@
 # openldap
-openldap in k8s 
+openldap in k8s(存在问题！！！！) 
 1. 克隆本项目到本地
 ```
 git clone https://github.com/happinesslijian/openldap.git
