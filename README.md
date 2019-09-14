@@ -7,7 +7,7 @@ git clone https://github.com/happinesslijian/openldap.git
 2. 开始安装
 - 首先要修改实际使用的域名
 ```
-cd openldap\environment
+cd openldap/environment
 vi my-env.startup.yaml
 ```
 [如图所示](https://i.loli.net/2019/09/13/4BVKlE6FyGnkpXg.png)
