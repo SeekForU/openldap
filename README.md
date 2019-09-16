@@ -34,5 +34,5 @@ Login DN：cn=admin,dc=dycd,dc=test,dc=com
 3. 使用客户端管理
 - [下载ldapAdmin](https://sourceforge.net/projects/ldapadmin/files/ldapadmin/1.6.1/LdapAdminExe-1.6.1.zip/download)
 - [下载汉化包](http://www.ldapadmin.org/download/languages/download.php?id=3)
-- [汉化过程](缺一个gif汉化图片)
+- [汉化配置过程](https://i.loli.net/2019/09/16/ruCpw1O8JUSYQ25.gif)
 - [客户端登陆](https://i.loli.net/2019/09/13/Zpblfejohx54E2S.png)
